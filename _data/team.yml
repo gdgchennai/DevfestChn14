@@ -14,18 +14,6 @@
 
 - 
   id: 1
-  name: "Jeyanthan"
-  surname: " I"
-  title: "Manager, GDG Chennai"
-  thumbnailUrl: OlehZasadnyy.jpg
-  team: true
-  ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group"}
-  social: 
-    - {name: "google-plus", link: "https://google.com/+JeyanthanI"}
-    - {name: "github", link: "https://github.com/ijeyanthan"}
-- 
-  id: 2
   name: "Swaathi"
   surname: "K"
   title: "Manager, GDGChennai W"
@@ -36,6 +24,18 @@
   social: 
     - {name: "google-plus", link: "https://google.com/+SwaathiKakarla"}
     - {name: "twitter", link: "https://twitter.com/imswaathik"}
+- 
+  id: 2
+  name: "Jeyanthan"
+  surname: " I"
+  title: "Manager, GDG Chennai"
+  thumbnailUrl: OlehZasadnyy.jpg
+  team: true
+  ribbon: 
+    - {abbr: "GDG", title: "Google Developer Group"}
+  social: 
+    - {name: "google-plus", link: "https://google.com/+JeyanthanI"}
+    - {name: "github", link: "https://github.com/ijeyanthan"}
 
 - 
   id: 4
