@@ -56,7 +56,7 @@ typeoutTextValues: '"", "Learn", "Celebrate", "Enjoy", "Share"'
 typeoutFallback: "Chennai"
 heroButtons:
  - {link: "http://goo.gl/a7OvmB", text: "Nominate a speaker"}
- - {permalink: "#", text: "Buy tickets"}
+ - {permalink: "#", text: "Buy tickets (Not Yet)"}
 
 # About Block
 aboutTitle: "About GDG DevFest"
