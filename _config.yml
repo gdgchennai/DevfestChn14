@@ -50,9 +50,9 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "It's Time for you to "
+heroTitle: "It's Time for you "
 eventDate: "October 2014"
-typeoutTextValues: '"", "Learn", "Celebrate", "Enjoy", "Share"'
+typeoutTextValues: '"", "to Learn", "to Celebrate", "to Enjoy", "to Share"'
 typeoutFallback: "Chennai"
 heroButtons:
  - {link: "http://goo.gl/a7OvmB", text: "Nominate a speaker"}
