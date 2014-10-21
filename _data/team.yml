@@ -3,7 +3,7 @@
   name: "Karthik"
   surname: "K"
   title: "Manager, GDG Chennai"
-  thumbnailUrl: VitaliyZasadnyy.jpg
+  thumbnailUrl: karthik.jpg
   team: true
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
@@ -17,7 +17,7 @@
   name: "Swaathi"
   surname: "K"
   title: "Manager, GDGChennai W"
-  thumbnailUrl: OstapAndrusiv.jpg
+  thumbnailUrl: swaathi.jpg
   team: true
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
@@ -42,7 +42,7 @@
   name: "Varun"
   surname: "Raj"
   title: "Developer"
-  thumbnailUrl: DmytroDanylyk.jpg
+  thumbnailUrl: varun.jpg
   team: true
   social: 
     - {name: "google-plus", link: "https://plus.google.com/+VarunRaj22"}
