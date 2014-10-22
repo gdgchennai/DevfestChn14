@@ -173,16 +173,17 @@ footerBlocks:
  -
   title: "Links"
   links:
-   - {link: "http://gdg.org.ua", text: "GDG.org.ua"}
+   - {link: "http://www.gdgchennai.com", text: "GDG Chennai"}
+   - {link: "https://developers.google.com/groups/pulse/India", text: "GDG India"}
    - {link: "https://developers.google.com", text: "Google Developers"}
  -
   title: "Contacts"
   links:
-   - {link: "mailto:lviv@gdg.org.ua", text: "lviv@gdg.org.ua"}
+   - {link: "mailto:karthik@skcript.com", text: "karthik@skcript.com"}
  -
   title: "FAQ"
   links:
-   - {permalink: "/cod/", text: "Code of Conduct"}
+   - {permalink: "/workshop/", text: "Polymer Workshop"}
 
 # Blog
 blogTitle: "Latest news"
