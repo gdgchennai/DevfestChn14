@@ -8,9 +8,7 @@
   thumbnailUrl: karthik.jpg
   rockstar: true
   social: 
- - {name: "google-plus", link: "https://google.com/+KarthikK"}
-    - {name: "twitter", link: "https://twitter.com/ImKarthikK"}
-    - {name: "github", link: "https://github.com/ImKarthikK"}
+    - {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
 - 
   id: 4
   name: "Dmytro"
