@@ -2,7 +2,7 @@
   group: "General sponsor"
   elements: 
     - {name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google.svg"}
-    - {name: "GDG Lviv", description: "GDG Lviv - Open and volunteer geek community", link: "http://lviv.gdg.org.ua", imageUrl: "gdg-lviv.svg"}
+    - {name: "GDG Chennai", description: "GDG Chennai - By Community for Community", link: "http://www.gdgchennai.com", imageUrl: "GDG_Chennai.svg"}
 - 
   group: "With support of"
   elements: 
