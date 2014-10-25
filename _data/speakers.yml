@@ -24,19 +24,16 @@
     - {name: "github", link: "https://github.com/dmytrodanylyk"}
 - 
   id: 5
-  name: "Mateusz"
-  surname: "Herych"
-  company: "Base CRM, GDG Krakow"
-  title: "Software Engineer"
-  bio: "Mateusz is an Android GDE and GDG organizer. Works as Android Developer for Base CRM where he uses his android-abracadabras to make enterprise software users more productive."
-  thumbnailUrl: MateuszHerych.jpg
+  name: "Partick"
+  surname: "Martinent"
+  company: "Newgen KnowledgeWorks"
+  title: "CTO"
+  bio: "Born in France. Brought up in Singapore. Became the man he is in India. Geeky & Fun. Hungry & Thirsty. Loving & Considerate."
+  thumbnailUrl: partick.jpg
   rockstar: true
-  ribbon: 
-    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
-    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/107562802227561437057/"}
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/+MateuszHerych"}
-    - {name: "twitter", link: "https://twitter.com/mherych"}
+    - {name: "google-plus", link: "https://plus.google.com/+PatrickMartinent0"}
+    - {name: "twitter", link: "https://twitter.com/patto_chennai"}
 - 
   id: 6
   name: "Roman"
