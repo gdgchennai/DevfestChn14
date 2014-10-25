@@ -18,10 +18,10 @@
   complexity: "Intermediate"
 -
   id: 002
-  title: "Building Cloud-powered wearable Apps"
-  description: "Android wear extends the Android platform to a new generation of wearable devices. The user experience is designed specifically for wearables. In this session you’ll see how to use the Android Wear SDK to build a connected cloud-powered application. Using Android Studio and it’s cloud extensions, you’ll see how to build an app that ‘listens’ for changes in stock prices, and notifies a wearable device. You’ll also see how to use voice controls on the device to trigger interactions with the app, such as buying or selling the stock after a notification. Call to action: Get the SDK and start building apps today!"
-  subtype: presentation
-  speakers: [4, 5]
+  title: "Building Application UI With Polymer"
+  description: "Web Components usher in a new era of web development based on encapsulated and interoperable custom elements that extend HTML itself. Built atop these new standards, Polymer makes it easier and faster to create anything from a button to a complete application across desktop, mobile, and beyond."
+  subtype: workshop
+  speakers: [4]
   language: en
   complexity: "Beginner"
 -

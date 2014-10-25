@@ -2,11 +2,11 @@
   date: "2014-11-15"
   dateReadable: "November 15"
   tracks: 
-    - {title: "Android", color: "#90be4e"}
+    - {title: "Polymer Workshop", color: "#1f2036"}
   timeslots:
     - {
-    	startTime: "10:00",
-    	endTime: "10:45",
+    	startTime: "09:00",
+    	endTime: "05:00",
     	sessionIds: [002]
     }
 - 
