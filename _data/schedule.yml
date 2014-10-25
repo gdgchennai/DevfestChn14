@@ -18,20 +18,5 @@
     - {
     	startTime: "10:00",
     	endTime: "10:45",
-    	sessionIds: [002]
-    }
-    - {
-    	startTime: "11:00",
-    	endTime: "11:45",
-    	sessionIds: [002]
-    }
-    - {
-        startTime: "13:00",
-        endTime: "13:45",
-        sessionIds: [002]
-    }
-    - {
-    	startTime: "14:00",
-    	endTime: "15:00",
-    	sessionIds: [002]
+    	sessionIds: [003]
     }
