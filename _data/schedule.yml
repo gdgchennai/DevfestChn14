@@ -5,8 +5,8 @@
     - {title: "Android", color: "#90be4e"}
   timeslots:
     - {
-    	startTime: "10:00",
-    	endTime: "10:45",
+    	startTime: "09:00",
+    	endTime: "06:00",
     	sessionIds: [002]
     }
 - 
