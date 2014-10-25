@@ -14,7 +14,6 @@
   dateReadable: "November 16"
   tracks: 
     - {title: "Conference", color: "#90be4e"}
-
   timeslots: 
     - {
     	startTime: "10:00",
