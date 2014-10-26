@@ -180,7 +180,7 @@ footerBlocks:
  -
   title: "FAQ"
   links:
-   - {permalink: "/workshop/", text: "Polymer Workshop"}
+   - {permalink: "/wokrshop/", text: "Polymer Workshop"}
 
 # Blog
 blogTitle: "Latest news"
