@@ -121,11 +121,8 @@ partnersC4sponsorsButton: "Become a sponsor"
 # Subscribe Block
 subscribeImage: "subscribe.jpg"
 subscribeTitle: "Subscribe for updates"
-<<<<<<< HEAD
 subscribeAction: "http://zathrac.us3.list-manage.com/subscribe/post?u=25748e12927120f75963019c3&amp;id=3ad8db8df7"
-=======
 subscribeAction: "http://us3.campaign-archive2.com/home/?u=25748e12927120f75963019c3&amp;id=fdde7ec9f0"
->>>>>>> 892b42ec80019ee467df02c10d7f91c1f9fdb6f0
 subscribeInfo: "Registration will be open around end of August. Number of tickets are limited. Stay tuned!"
 
 # Tickets Block
