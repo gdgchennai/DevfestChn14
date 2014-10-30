@@ -47,7 +47,7 @@ bottomNavigationLinks:
  - {link: "https://docs.google.com/forms/d/1CKBHIQLT7MZ2D2LvtwcG7BdnMUWyuc2n0idHOXuNEtw/viewform", text: "Become a speaker"}
 rightNavigationButtons:
  - {link: "https://docs.google.com/forms/d/1CKBHIQLT7MZ2D2LvtwcG7BdnMUWyuc2n0idHOXuNEtw/viewform", text: "Become a speaker"}
-
+ - {link: "https://docs.google.com/forms/d/19qfK2UVXO8mtHhbQCjPNYICsrmQBkslCRM3Bga6985Y/viewform", text: "Host a stall"}
 # Hero Block
 heroImage: "hero.jpg"
 heroTitle: "It's Time for you "
@@ -110,7 +110,7 @@ venueFeatures: ["3 huge cinema screens", "Doulby Digital Surround EX audio syste
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
 tweetsFeedTitle: "What's Up?"
-twitterHashTag: "devfest"
+twitterHashTag: "devfestchn"
 twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=900"
 
 # Partners Block
