@@ -130,9 +130,9 @@ ticketsInfo: "Tickets grant access to all conference sections, coffee brakes, lu
 ticketsOffers:
  -
   name: "Workshop"
-  price: "150"
+  price: "200"
   priceCurrency: "INR"
-  ticketsNumber: "150"
+  ticketsNumber: "200"
   buyButtonLink: "#"
   buyButtonText: "Opening Soon"
   ticketContentList: ["1st Day Workshop"]
@@ -140,9 +140,9 @@ ticketsOffers:
   validThrough: "2014-09-30T23:59"
  -
   name: "Both Days"
-  price: "200"
+  price: "300"
   priceCurrency: "INR"
-  ticketsNumber: "100"
+  ticketsNumber: "300"
   featured: true
   buyButtonLink: "#"
   buyButtonText: "Opening Soon"
@@ -152,9 +152,9 @@ ticketsOffers:
   disabled: true
  -
   name: "Conference"
-  price: "150"
+  price: "200"
   priceCurrency: "INR"
-  ticketsNumber: "50"
+  ticketsNumber: "200"
   buyButtonLink: "#"
   buyButtonText: "Opening Soon"
   ticketContentList: ["2nd Day Conference"]
