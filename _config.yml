@@ -129,37 +129,16 @@ ticketsTitle: "Pricetable"
 ticketsInfo: "Tickets grant access to all conference sections, coffee brakes, lunch and party. Accommodation is NOT included in the ticket price."
 ticketsOffers:
  -
-  name: "Workshop"
-  price: "200"
-  priceCurrency: "INR"
-  ticketsNumber: "200"
-  buyButtonLink: "#"
-  buyButtonText: "Opening Soon"
-  ticketContentList: ["1st Day Workshop"]
-  validFrom: "2014-08-25T10:00"
-  validThrough: "2014-09-30T23:59"
- -
-  name: "Both Days"
+  name: "Conference Ticket"
   price: "300"
   priceCurrency: "INR"
   ticketsNumber: "300"
-  featured: true
   buyButtonLink: "#"
   buyButtonText: "Opening Soon"
-  ticketContentList: ["Entry For Both Day Workshop and Conference"]
-  validFrom: "2014-10-01T00:00"
-  validThrough: "2014-10-23T23:59"
-  disabled: true
- -
-  name: "Conference"
-  price: "200"
-  priceCurrency: "INR"
-  ticketsNumber: "200"
-  buyButtonLink: "#"
-  buyButtonText: "Opening Soon"
-  ticketContentList: ["2nd Day Conference"]
-  validFrom: "2014-08-20T10:00"
-  validThrough: "2014-10-23T23:59"
+  ticketContentList: ["Conference on Nov 16th"]
+  validFrom: "2014-08-25T10:00"
+  validThrough: "2014-09-30T23:59"
+
 
 # Footer
 socialLinks:
