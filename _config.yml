@@ -130,9 +130,9 @@ ticketsInfo: "Tickets grant access to all conference sections, coffee brakes, lu
 ticketsOffers:
  -
   name: "Conference Ticket"
-  price: "300"
+  price: "200"
   priceCurrency: "INR"
-  ticketsNumber: "300"
+  ticketsNumber: "200"
   buyButtonLink: "#"
   buyButtonText: "Opening Soon"
   ticketContentList: ["Conference on Nov 16th"]
