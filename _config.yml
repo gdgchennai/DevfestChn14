@@ -44,7 +44,7 @@ navigationLinks:
  # - {permalink: "/logistics/", text: "Logistics"}
  # - {permalink: "/workshop/", text: "Workshop"}
 bottomNavigationLinks:
- - {link: "https://docs.google.com/forms/d/1CKBHIQLT7MZ2D2LvtwcG7BdnMUWyuc2n0idHOXuNEtw/viewform", text: "Become a speaker"}
+ - {link: "mailto:karthik@skcript.com", text: "Become a speaker"}
 rightNavigationButtons:
  - {link: "https://docs.google.com/forms/d/1CKBHIQLT7MZ2D2LvtwcG7BdnMUWyuc2n0idHOXuNEtw/viewform", text: "Become a speaker"}
  - {link: "https://docs.google.com/forms/d/19qfK2UVXO8mtHhbQCjPNYICsrmQBkslCRM3Bga6985Y/viewform", text: "Host a stall"}
@@ -91,9 +91,9 @@ eventAddressLocality: "Chennai"
 eventAddressLocalityRegion: "Chennai"
 eventPostalCode: "600035"
 eventAddressCountry: "India"
-eventStartTime: "2014-10-25T10:00"
+eventStartTime: "2014-10-25T08:45"
 eventDoorTime: "09:00"
-eventEndTime: "2014-10-25T20:00"
+eventEndTime: "2014-10-25T18:00"
 eventPlaceCoordinates: "13.062791, 80.261489"
 mapCenterCoordinates: "13.062791, 80.261489"
 mapMobileCenterCoordinates: "13.062791, 80.261489"
