@@ -132,12 +132,9 @@ ticketsOffers:
   name: "Conference Ticket"
   price: "200"
   priceCurrency: "INR"
-  ticketsNumber: "200"
   buyButtonLink: "#"
   buyButtonText: "Opening Soon"
   ticketContentList: ["Conference on Nov 16th"]
-  validFrom: "2014-08-25T10:00"
-  validThrough: "2014-09-30T23:59"
 
 
 # Footer
