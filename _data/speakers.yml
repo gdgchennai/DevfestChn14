@@ -24,16 +24,15 @@
     - {name: "github", link: "https://github.com/dmytrodanylyk"}
 - 
   id: 5
-  name: "Partick"
-  surname: "Martinent"
-  company: "Newgen KnowledgeWorks"
+  name: "Santhosh"
+  surname: "Vijay"
+  company: "TCS"
   title: "CTO"
-  bio: "Born in France. Brought up in Singapore. Became the man he is in India. Geeky & Fun. Hungry & Thirsty. Loving & Considerate."
-  thumbnailUrl: partick.jpg
+  bio: "Web Researcher, FOSS Evangelist, Mobile Stack Engineer, Entrepreneur, Speaker, Creative Thinker, Blogger, Freelancer"
+  thumbnailUrl: santhosh.jpg
   rockstar: true
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/+PatrickMartinent0"}
-    - {name: "twitter", link: "https://twitter.com/patto_chennai"}
+    - {name: "twitter", link: "https://twitter.com/santhoshthepro"}
 - 
   id: 6
   name: "Ashwin"
