@@ -135,7 +135,7 @@ ticketsOffers:
   price: "200"
   priceCurrency: "INR"
   ticketsNumber: "100"
-  buyButtonLink: "#"
+  buyButtonLink: "http://devfest2014.doattend.com/"
   buyButtonText: "Opening Soon"
   ticketContentList: ["Conference on Nov 16th"]
   validFrom: "2014-11-10T23:59"
