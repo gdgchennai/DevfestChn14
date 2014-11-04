@@ -58,7 +58,7 @@ heroButtons:
   - {link: "http://goo.gl/a7OvmB", text: "Nominate a speaker"}
   - {link: "mailto:karthik@skcript.com", text: "Become a sponsor"}
   - {link: "https://docs.google.com/forms/d/19qfK2UVXO8mtHhbQCjPNYICsrmQBkslCRM3Bga6985Y/viewform", text: "Host a Stall"}
-  - {link: "#", text: "Buy tickets (Not Yet)"}
+  - {link: "http://devfest2014.doattend.com/", text: "Buy tickets"}
 
 # About Block
 aboutTitle: "About GDG DevFest"
