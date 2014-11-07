@@ -83,19 +83,7 @@
   social: 
     - {name: "facebook", link: "https://www.facebook.com/hariharasudhan.km"}
     - {name: "twitter", link: "https://twitter.com/hariharaz"}
-    - 
-  id: 10
-  name: "Jash"
-  surname: "Jacob"
-  company: "Techzei"
-  title: "Editor in Chief"
-  bio: "Editor-in-chief of @Techzei | Tech Evangelist | Gadget Lover | Photography"
-  thumbnailUrl: jash.jpg
-  rockstar: true
-  social: 
-    - {name: "facebook", link: "https://www.facebook.com/jash.techie"}
-    - {name: "twitter", link: "https://twitter.com/jashjacob"}
-    - 
+- 
   id: 11
   name: "Muthu"
   surname: "Ramakrishnan"
@@ -107,3 +95,15 @@
   social: 
     - {name: "facebook", link: "https://www.facebook.com/siriscac"}
     - {name: "twitter", link: "https://twitter.com/siris_cac"}
+- 
+  id: 10
+  name: "Jash"
+  surname: "Jacob"
+  company: "Techzei"
+  title: "Editor in Chief"
+  bio: "Editor-in-chief of @Techzei | Tech Evangelist | Gadget Lover | Photography"
+  thumbnailUrl: jash.jpg
+  rockstar: true
+  social: 
+    - {name: "facebook", link: "https://www.facebook.com/jash.techie"}
+    - {name: "twitter", link: "https://twitter.com/jashjacob"}
