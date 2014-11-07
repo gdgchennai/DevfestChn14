@@ -6,7 +6,6 @@
   title: "Co-Founder"
   bio: "Dawid is true technology enthusiast, who loves to work in areas where humans and machines meet to create amazing new products and services. He is experienced program manager with strong technical background, who is able to establish priorities for complex projects and execute across multiple organizations, according to long-term objectives. Dawid has worked in Poland, USA, Germany, Belgium and The Netherlands and truly values diversity of international working environment. His most visible characteristics are individualization (when dealing directly with people), ideation&intellection (inexhaustible source of new concepts) and strong communication (experienced trainer, community manager). He is also an activator constantly impatient for action."
   thumbnailUrl: karthik.jpg
-  rockstar: false
   social: 
     - {name: "google-plus", link: "https://plus.google.com/+KarthikK/"}
 - 
@@ -17,7 +16,6 @@
   title: "Co-Founder"
   bio: '<p>Developer. Nominated to apply for the <a href="http://goo.gl/V7qHc">Google Developer Expert Program</a>. Finalist of <a href="http://goo.gl/HO2kLf">Google Apps Developer Challenge 2012</a>. Author of open source <a href="http://goo.gl/Sp5Pel">libraries</a> 1000+ stars. Writer. When Dmytro has free time he is writing <a href="http://goo.gl/AoOVru">technical articles</a>. Speaker. Always trying to share his knowledge &amp; experience on different <a href="http://goo.gl/PNolZY">events</a>. Big fan of android, flat design, stackoverflow, git, Intellij IDEA. Eclipse IDE hater.</p>'
   thumbnailUrl: swaathi.jpg
-  rockstar: false
   social: 
     - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
     - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
@@ -67,7 +65,6 @@
   title: "Manager"
   bio: "Agnostic Sapiosexual Netizen | FOSS Enthusiast | Part time freelancer | Tech Addict | A Collabee | Leads Google Developers Group, Chennai | Committed to WWW"
   thumbnailUrl: jey.jpg
-  rockstar: false
   social: 
     - {name: "google-plus", link: "https://google.com/+JeyanthanI"}
     - {name: "github", link: "https://github.com/ijeyanthan"}
