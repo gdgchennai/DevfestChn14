@@ -51,7 +51,7 @@
   id: 7
   name: "Shreyas"
   surname: "Narayanan"
-  company: "Firefox"
+  company: "Mozilla"
   title: "Student Ambassadors"
   bio: "Techie | Foodie | Mozillian | Open source evangelist | Mozilla Representative | Intern at Open Source Initiative"
   thumbnailUrl: shreyas.jpg
@@ -83,3 +83,27 @@
   social: 
     - {name: "facebook", link: "https://www.facebook.com/hariharasudhan.km"}
     - {name: "twitter", link: "https://twitter.com/hariharaz"}
+    - 
+  id: 10
+  name: "Jash"
+  surname: "Jacob"
+  company: "Techzei"
+  title: "Editor in Chief"
+  bio: "Editor-in-chief of @Techzei | Tech Evangelist | Gadget Lover | Photography"
+  thumbnailUrl: jash.jpg
+  rockstar: true
+  social: 
+    - {name: "facebook", link: "https://www.facebook.com/jash.techie"}
+    - {name: "twitter", link: "https://twitter.com/jashjacob"}
+    - 
+  id: 11
+  name: "Muthu"
+  surname: "Ramakrishnan"
+  company: "Google Students Club - SRM University"
+  title: "Technical Lead"
+  bio: "Flash Wizard, Android/iOS Developer.Strangers think I'm quiet. Friends think I'm outgoing. My best friends think I'm insane. What do you think ? :D"
+  thumbnailUrl: muthu.jpg
+  rockstar: true
+  social: 
+    - {name: "facebook", link: "https://www.facebook.com/siriscac"}
+    - {name: "twitter", link: "https://twitter.com/siris_cac"}

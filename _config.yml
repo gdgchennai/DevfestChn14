@@ -73,7 +73,7 @@ statisticBlock:
  - {count: "350", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
  - {count: "48", specialCharacter: "+", info: "hours", detail: "of pure Google technologies"}
  - {count: "6", specialCharacter: "+", info: "speakers", detail: "from country and beyond"}
- - {count: "1", specialCharacter: "", info: "Days", detail: "plus entertainment lounge"}
+ - {count: "1", specialCharacter: "", info: "Day", detail: "plus entertainment lounge"}
 
 # Latest News Block
 latestNewsTitle: "Latest news"
