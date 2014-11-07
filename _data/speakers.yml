@@ -47,3 +47,27 @@
   social: 
     - {name: "google-plus", link: "https://plus.google.com/106158352076308596420/"}
     - {name: "twitter", link: "http://twitter.com/shankspeaks"}
+- 
+  id: 6
+  name: "Shreyas"
+  surname: "Narayanan"
+  company: "Firefox"
+  title: "Student Ambassadors"
+  bio: "Techie | Foodie | Mozillian | Open source evangelist | Mozilla Representative | Intern at Open Source Initiative"
+  thumbnailUrl: shreyas.jpg
+  rockstar: true
+  social: 
+    - {name: "facebook", link: "https://www.facebook.com/dunebuggie"}
+    - {name: "twitter", link: "http://twitter.com/dun3buggi3"}
+- 
+  id: 6
+  name: "Jeyanthan"
+  surname: "I"
+  company: "Manager"
+  title: "GDG Chennai"
+  bio: "Agnostic Sapiosexual Netizen | FOSS Enthusiast | Part time freelancer | Tech Addict | A Collabee | Leads Google Developers Group, Chennai | Committed to WWW"
+  thumbnailUrl: jey.jpg
+  rockstar: true
+  social: 
+    - {name: "google-plus", link: "https://google.com/+JeyanthanI"}
+    - {name: "github", link: "https://github.com/ijeyanthan"}
