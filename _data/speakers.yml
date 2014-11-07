@@ -48,7 +48,7 @@
     - {name: "google-plus", link: "https://plus.google.com/106158352076308596420/"}
     - {name: "twitter", link: "http://twitter.com/shankspeaks"}
 - 
-  id: 6
+  id: 7
   name: "Shreyas"
   surname: "Narayanan"
   company: "Firefox"
@@ -60,14 +60,26 @@
     - {name: "facebook", link: "https://www.facebook.com/dunebuggie"}
     - {name: "twitter", link: "http://twitter.com/dun3buggi3"}
 - 
-  id: 6
+  id: 8
   name: "Jeyanthan"
   surname: "I"
-  company: "Manager"
-  title: "GDG Chennai"
+  company: "GDG Chennai"
+  title: "Manager"
   bio: "Agnostic Sapiosexual Netizen | FOSS Enthusiast | Part time freelancer | Tech Addict | A Collabee | Leads Google Developers Group, Chennai | Committed to WWW"
   thumbnailUrl: jey.jpg
   rockstar: true
   social: 
     - {name: "google-plus", link: "https://google.com/+JeyanthanI"}
     - {name: "github", link: "https://github.com/ijeyanthan"}
+- 
+  id: 9
+  name: "Hari Hara"
+  surname: "Sudhan"
+  company: "F22 Labs"
+  title: "Partner"
+  bio: "Partner @ F22 Labs"
+  thumbnailUrl: hari.jpg
+  rockstar: true
+  social: 
+    - {name: "facebook", link: "https://www.facebook.com/hariharasudhan.km"}
+    - {name: "twitter", link: "https://twitter.com/hariharaz"}
