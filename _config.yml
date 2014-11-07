@@ -39,10 +39,10 @@ navigationLinks:
  # - {permalink: "/", text: "Home"}
  # - {permalink: "/blog/", text: "Blog"}
  # - {permalink: "/schedule/", text: "Schedule"}
- # - {permalink: "/speakers/", text: "Speakers"}
+ - {permalink: "/speakers/", text: "Speakers"}
  # - {permalink: "/team/", text: "Team"}
  # - {permalink: "/logistics/", text: "Logistics"}
- # - {permalink: "/workshop/", text: "Workshop"}
+
 bottomNavigationLinks:
  - {link: "mailto:karthik@skcript.com", text: "Become a speaker"}
 rightNavigationButtons:
