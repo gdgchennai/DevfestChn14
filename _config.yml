@@ -36,11 +36,11 @@ c4sponsorsUrl: "mailto:karthik@skcript.com"
 
 # Navigation
 navigationLinks:
- # - {permalink: "/", text: "Home"}
+ - {permalink: "/", text: "Home"}
  # - {permalink: "/blog/", text: "Blog"}
- # - {permalink: "/schedule/", text: "Schedule"}
+ - {permalink: "/schedule/", text: "Schedule"}
  - {permalink: "/speakers/", text: "Speakers"}
- # - {permalink: "/team/", text: "Team"}
+ - {permalink: "/team/", text: "Team"}
  # - {permalink: "/logistics/", text: "Logistics"}
 
 bottomNavigationLinks:

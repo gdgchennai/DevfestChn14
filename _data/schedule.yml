@@ -1,6 +1,6 @@
 - 
-  date: "2014-11-15"
-  dateReadable: "November 15"
+  date: "2014-11-16"
+  dateReadable: "November 16"
   tracks: 
     - {title: "Polymer Workshop", color: "#90be4e"}
   timeslots:
@@ -8,15 +8,4 @@
     	startTime: "09:00",
     	endTime: "06:00",
     	sessionIds: [002]
-    }
-- 
-  date: "2014-11-16"
-  dateReadable: "November 16"
-  tracks: 
-    - {title: "Conference", color: "#90be4e"}
-  timeslots: 
-    - {
-    	startTime: "10:00",
-    	endTime: "10:45",
-    	sessionIds: [003]
     }
