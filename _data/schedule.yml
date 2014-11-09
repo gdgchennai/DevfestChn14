@@ -60,18 +60,19 @@
       sessionIds: [008]
     }
    - {
-    startTime: "03:45",
-    endTime: "04:30",
-    sessionIds: [009]
+      startTime: "03:45",
+      endTime: "04:30",
+      sessionIds: [009]
     }
    - {
-    startTime: "04:30",
-    endTime: "05:30",
-    sessionIds: [010]
+      startTime: "04:30",
+      endTime: "05:30",
+      sessionIds: [010]
   }
+
   - {
-    startTime: "05:30",
-    endTime: "06:00",
-    sessionIds: [011]
-  }
+      startTime: "05:30",
+      endTime: "06:00",
+      sessionIds: [011]
+    }
 
