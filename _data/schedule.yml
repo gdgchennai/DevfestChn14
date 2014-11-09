@@ -15,20 +15,20 @@
         sessionIds: [003]
     }
     - {
-        startTime: "11:00",
-        endTime: "11:45",
+        startTime: "12:00",
+        endTime: "12:45",
         sessionIds: [004]
     }
 
   - {
-        startTime: "11:00",
-        endTime: "11:45",
+        startTime: "13:00",
+        endTime: "13:45",
         sessionIds: [005]
     }
 
   - {
-        startTime: "11:00",
-        endTime: "11:45",
+        startTime: "14:00",
+        endTime: "14:45",
         sessionIds: [006]
     }
 
