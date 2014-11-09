@@ -5,12 +5,33 @@
     - {title: "Android", color: "#90be4e"}
   timeslots:
     - {
-      startTime: "09:00",
-      endTime: "09:30",
+      startTime: "10:00",
+      endTime: "10:45",
       sessionIds: [002]
     }
-   - {
-      startTime: "09:30",
-      endTime: "10:30",
-      sessionIds: [003]
+    - {
+        startTime: "11:00",
+        endTime: "11:45",
+        sessionIds: [003]
     }
+    - {
+      startTime: "12:00",
+      endTime: "11:45",
+      sessionIds: [307]
+    }
+     - {
+      startTime: "12:00",
+      endTime: "11:45",
+      sessionIds: [307]
+    }
+     - {
+      startTime: "12:00",
+      endTime: "11:45",
+      sessionIds: [307]
+    }
+     - {
+      startTime: "12:00",
+      endTime: "11:45",
+      sessionIds: [307]
+    }
+    
