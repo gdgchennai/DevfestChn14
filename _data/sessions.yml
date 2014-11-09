@@ -29,64 +29,54 @@
 -
   id: 003
   title: "Where is the pug going to be - The Wearable technologies"
-  description: "About Android Wear"
-  subtype: presentation
   speakers: [3,4]
   language: en
   complexity: "Expert"
 -
   id: 004
   title: "Google Glass APIs and demos"
-  subtype: keynote
   speakers: [9]
   language: uk
   complexity: "Beginner"
 -
   id: 005
   title: "Using Containers on Google Cloud Platform - the future of Cloud!"
-  subtype: presentation
   speakers: [6]
   language: en
   complexity: "Beginner"
 -
   id: 006
   title: "Perks of Polymer"
-  subtype: presentation
   speakers: [5]
   language: en
   complexity: "Beginner"
 -
   id: 007
   title: "Going material - Materializing your apps"
-  subtype: presentation
   speakers: [11]
   language: en
   complexity: "Beginner"
 -
   id: 008
   title: "Web Literacy - Unveiling the power of Free, Open and Accessible Web."
-  subtype: presentation
   speakers: [7]
   language: en
   complexity: "Beginner"
 -
   id: 009
   title: "Why should you bother about GIT for your development!"
-  subtype: presentation
   speakers: [8]
   language: en
   complexity: "Beginner"
 -
   id: 010
   title: "Lightning talks and App Demos"
-  subtype: presentation
   language: en
   speakers: [3]
   complexity: "Beginner"
 -
   id: 011
   title: "Gala Time and Saying your Goodbyes!"
-  subtype: presentation
   language: en
   speakers: [3]
   complexity: "Beginner"
