@@ -23,6 +23,7 @@
   id: 002
   title: "Panel Discussion"
   language: en
+  speakers: [3]
   complexity: "Beginner"
 -
   id: 003
@@ -79,11 +80,13 @@
   title: "Lightning talks and App Demos"
   subtype: presentation
   language: en
+  speakers: [3]
   complexity: "Beginner"
 -
   id: 011
   title: "Gala Time and Saying your Goodbyes!"
   subtype: presentation
   language: en
+  speakers: [3]
   complexity: "Beginner"
 
