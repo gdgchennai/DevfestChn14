@@ -1,8 +1,9 @@
 -
   id: 307
   title: "Registration"
-  place: "Hall"
-  service: true
+  language: en
+  speakers: [3]
+  complexity: "Beginner"
 -
   id: 503
   title: "Lunch Break"

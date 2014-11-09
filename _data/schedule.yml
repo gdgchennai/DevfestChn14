@@ -4,7 +4,7 @@
   tracks: 
     - {title: "Android", color: "#90be4e"}
   timeslots:
-    - {
+  - {
       startTime: "08:00",
       endTime: "08:30",
       sessionIds: [307]
