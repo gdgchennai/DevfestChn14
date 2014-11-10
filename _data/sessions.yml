@@ -80,3 +80,9 @@
   language: en
   speakers: [3]
   complexity: "Beginner"
+-
+  id: 010
+  title: "How community changed my life"
+  language: en
+  speakers: [10]
+  complexity: "Beginner"
