@@ -8,6 +8,8 @@
   thumbnailUrl: karthik.jpg
   social: 
     - {name: "google-plus", link: "https://plus.google.com/+KarthikK/"}
+    - {name: "twitter", link: "https://twitter.com/imkarthikk"}
+    - {name: "github", link: "https://github.com/Imkarthikk"} 
 - 
   id: 4
   name: "Swaathi"
@@ -17,9 +19,9 @@
   bio: "Blogger @we4cast | GDG Women Organizer @gdgchennai | Admires Einstein and Tesla | One Amazing Love | Jobs and Musk Fan | Co-Founder @skcriptd"
   thumbnailUrl: swaathi.jpg
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
-    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
-    - {name: "github", link: "https://github.com/dmytrodanylyk"}
+    - {name: "google-plus", link: "https://plus.google.com/+SwaathiKakarla"}
+    - {name: "twitter", link: "https://twitter.com/imswaathik"}
+    - {name: "github", link: "https://github.com/swaathi"}
 - 
   id: 5
   name: "Santhosh"
@@ -67,6 +69,7 @@
   thumbnailUrl: jey.jpg
   social: 
     - {name: "google-plus", link: "https://google.com/+JeyanthanI"}
+    - {name: "twitter", link: "https://twitter.com/ijeyanthan"}
     - {name: "github", link: "https://github.com/ijeyanthan"}
 - 
   id: 9
@@ -92,6 +95,7 @@
   social: 
     - {name: "facebook", link: "https://www.facebook.com/siriscac"}
     - {name: "twitter", link: "https://twitter.com/siris_cac"}
+    - {name: "github", link: "https://github.com/siriscac"}
 - 
   id: 10
   name: "Jash"
@@ -104,3 +108,4 @@
   social: 
     - {name: "facebook", link: "https://www.facebook.com/jash.techie"}
     - {name: "twitter", link: "https://twitter.com/jashjacob"}
+    - {name: "github", link: "https://github.com/jashjacob"}
