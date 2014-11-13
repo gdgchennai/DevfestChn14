@@ -56,7 +56,7 @@
   surname: "Kumar"
   title: "Developer"
   thumbnailUrl: harish.jpg
-  team: true
+  subTeam: true
   social: 
     - {name: "twitter", link: "https://twitter.com/prinston_manutd"}
     - {name: "facebook", link: "https://facebook.com/harish.manutd.freako"}
@@ -66,7 +66,7 @@
   surname: "Ramakrishnan"
   title: "Developer"
   thumbnailUrl: muthu.jpg
-  team: true
+  subTeam: true
   social: 
     - {name: "facebook", link: "https://www.facebook.com/siriscac"}
     - {name: "twitter", link: "https://twitter.com/siris_cac"}
@@ -77,7 +77,7 @@
   surname: "Mahesh"
   title: "Developer"
   thumbnailUrl: somu.jpg
-  team: true
+  subTeam: true
   social: 
     - {name: "twitter", link: "https://twitter.com/msomasundaram93"}
     - {name: "facebook", link: "https://facebook.com/msomu"}
