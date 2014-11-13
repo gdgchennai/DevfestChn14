@@ -73,8 +73,8 @@
     - {name: "github", link: "https://github.com/siriscac"}
 - 
   id: 6
-  name: "Soma"
-  surname: "Raj"
+  name: "Somasundaram"
+  surname: "Mahesh"
   title: "Developer"
   thumbnailUrl: somu.jpg
   team: true
