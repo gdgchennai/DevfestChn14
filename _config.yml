@@ -43,13 +43,13 @@ navigationLinks:
  - {permalink: "/team/", text: "Team"}
  # - {permalink: "/logistics/", text: "Logistics"}
 # Hero Block
-heroImage: "hero.jpg"
+heroImage: "hero.jpeg"
 heroTitle: "A day for "
 eventDate: "3rd of September 2016"
 typeoutTextValues: '"", "designers", "programmers", "startups", "entrepreneurs"'
 typeoutFallback: "Chennai"
 heroButtons:
-  - {link: "#", text: "Register Here"}
+  - {link: "http://goo.gl/ddIXgR", text: "Register Here"}
 
 # About Block
 aboutTitle: "About GDG DevFest"

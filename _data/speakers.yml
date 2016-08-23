@@ -4,7 +4,6 @@
   surname: "Arun"
   company: "Attify"
   title: "Electrical Engineer"
-  bio: "Web Researcher, FOSS Evangelist, Mobile Stack Engineer, Entrepreneur, Speaker, Creative Thinker, Blogger, Freelancer"
   thumbnailUrl: arun.jpg
   rockstar: true
   social:
@@ -32,14 +31,13 @@
   ribbon:
     - {abbr: "GBG", title: "Google Business Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
   social:
-    - {name: "google-plus", link: "https://plus.google.com/106158352076308596420/"}
     - {name: "twitter", link: "http://twitter.com/shankspeaks"}
 -
   id: 5
   name: "Parul"
   surname: "Soi"
   company: "Google"
-  title: ""
+  title: "‎Program Manager, Developer Relations"
   thumbnailUrl: parul.jpg
   rockstar: true
   social:
@@ -54,6 +52,4 @@
   thumbnailUrl: muthu.jpg
   rockstar: true
   social:
-    - {name: "facebook", link: "https://www.facebook.com/siriscac"}
     - {name: "twitter", link: "https://twitter.com/siris_cac"}
-    - {name: "github", link: "https://github.com/siriscac"}
