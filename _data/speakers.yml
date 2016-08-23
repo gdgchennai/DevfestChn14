@@ -1,40 +1,27 @@
-- 
-  id: 3
-  name: "Karthik"
-  surname: "Kamalakannan"
-  company: "Skcript"
-  title: "Co-Founder"
-  bio: "Sudo su @Skcriptd, EIC @We4CAST, Manager @GDGChennai, Genius like @Biz, Steve Jobs follower, Former APPL. One love."
-  thumbnailUrl: karthik.jpg
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/+KarthikK/"}
-    - {name: "twitter", link: "https://twitter.com/imkarthikk"}
-    - {name: "github", link: "https://github.com/Imkarthikk"} 
-- 
-  id: 4
-  name: "Swaathi"
-  surname: "K"
-  company: "Skcript"
-  title: "Co-Founder"
-  bio: "Blogger @we4cast | GDG Women Organizer @gdgchennai | Admires Einstein and Tesla | One Amazing Love | Jobs and Musk Fan | Co-Founder @skcriptd"
-  thumbnailUrl: swaathi.jpg
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/+SwaathiKakarla"}
-    - {name: "twitter", link: "https://twitter.com/imswaathik"}
-    - {name: "github", link: "https://github.com/swaathi"}
-- 
-  id: 5
-  name: "Santhosh"
-  surname: "Vijay"
-  company: "TCS"
-  title: "Software Engineer"
+-
+  id: 2
+  name: "Arun E Magesh"
+  surname: "Arun"
+  company: "Attify"
+  title: "Electrical Engineer"
   bio: "Web Researcher, FOSS Evangelist, Mobile Stack Engineer, Entrepreneur, Speaker, Creative Thinker, Blogger, Freelancer"
-  thumbnailUrl: santhosh.jpg
+  thumbnailUrl: arun.jpg
   rockstar: true
-  social: 
-    - {name: "twitter", link: "https://twitter.com/santhoshthepro"}
-- 
-  id: 6
+  social:
+    - {name: "twitter", link: "https://twitter.com/marunmagesh"}
+-
+  id: 3
+  name: "Sonaal"
+  surname: "Bangera"
+  company: "NFN Labs"
+  title: "Co-Founder"
+  bio: "Many-titled entrepreneur (@tbwontwtr & @theworksat), GBG Chennai Co-Organizer, geek, life observer, idea-a-minute machine, #footballaddict, #lfctillIdie, #ynwa"
+  thumbnailUrl: sonal.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "http://twitter.com/sonaal"}
+-
+  id: 4
   name: "Ashwin"
   surname: "Shankar"
   company: "TheWorks_AT"
@@ -44,47 +31,21 @@
   rockstar: true
   ribbon:
     - {abbr: "GBG", title: "Google Business Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
-  social: 
+  social:
     - {name: "google-plus", link: "https://plus.google.com/106158352076308596420/"}
     - {name: "twitter", link: "http://twitter.com/shankspeaks"}
-- 
-  id: 7
-  name: "Shreyas"
-  surname: "Narayanan"
-  company: "Mozilla"
-  title: "Student Ambassadors"
-  bio: "Techie | Foodie | Mozillian | Open source evangelist | Mozilla Representative | Intern at Open Source Initiative"
-  thumbnailUrl: shreyas.jpg
+-
+  id: 5
+  name: "Parul"
+  surname: "Soi"
+  company: "Google"
+  title: ""
+  thumbnailUrl: parul.jpg
   rockstar: true
-  social: 
-    - {name: "facebook", link: "https://www.facebook.com/dunebuggie"}
-    - {name: "twitter", link: "http://twitter.com/dun3buggi3"}
-- 
-  id: 8
-  name: "Jeyanthan"
-  surname: "I"
-  company: "CollabNet"
-  title: "Software Engineer - SCM Support"
-  bio: "Agnostic Sapiosexual Netizen | FOSS Enthusiast | Part time freelancer | Tech Addict | A Collabee | Leads Google Developers Group, Chennai | Committed to WWW"
-  thumbnailUrl: jey.jpg
-  social: 
-    - {name: "google-plus", link: "https://google.com/+JeyanthanI"}
-    - {name: "twitter", link: "https://twitter.com/ijeyanthan"}
-    - {name: "github", link: "https://github.com/ijeyanthan"}
-- 
-  id: 9
-  name: "Hari Hara"
-  surname: "Sudhan"
-  company: "F22 Labs"
-  title: "Partner"
-  bio: "Partner @ F22 Labs"
-  thumbnailUrl: hari.jpg
-  rockstar: true
-  social: 
-    - {name: "facebook", link: "https://www.facebook.com/hariharasudhan.km"}
-    - {name: "twitter", link: "https://twitter.com/hariharaz"}
-- 
-  id: 11
+  social:
+    - {name: "twitter", link: "http://twitter.com/parulsoi"}
+-
+  id: 6
   name: "Muthu"
   surname: "Ramakrishnan"
   company: "cepheuen"
@@ -92,20 +53,7 @@
   bio: "Android Developer | UX/UI Designer | Web developer | VFX Designer"
   thumbnailUrl: muthu.jpg
   rockstar: true
-  social: 
+  social:
     - {name: "facebook", link: "https://www.facebook.com/siriscac"}
     - {name: "twitter", link: "https://twitter.com/siris_cac"}
     - {name: "github", link: "https://github.com/siriscac"}
-- 
-  id: 10
-  name: "Jash"
-  surname: "Jacob"
-  company: "Techzei"
-  title: "Editor in Chief"
-  bio: "Editor-in-chief of @Techzei | Tech Evangelist | Gadget Lover | Photography"
-  thumbnailUrl: jash.jpg
-  rockstar: true
-  social: 
-    - {name: "facebook", link: "https://www.facebook.com/jash.techie"}
-    - {name: "twitter", link: "https://twitter.com/jashjacob"}
-    - {name: "github", link: "https://github.com/jashjacob"}

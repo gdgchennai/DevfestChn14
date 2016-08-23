@@ -5,4 +5,4 @@
 - 
   group: "With support of"
   elements: 
-    - {name: "Skcript", description: "Skcript", link: "https://www.skcript.com", imageUrl: "skcript.png"}
+    - {name: "Skcript", description: "Skcript", link: "https://www.skcript.com", imageUrl: "skcript.svg"}

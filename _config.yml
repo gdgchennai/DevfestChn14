@@ -5,7 +5,7 @@ exclude: ['/automation/', 'README.md', 'LICENCE.txt', 'CNAME']
 
 
 # Site Settings
-title: "GDG Chennai DevFest 2014"
+title: "GDG Chennai DevFest 2016"
 email: "karthik@skcript.com"
 description: "GDG DevFest is a set of events all around the world"
 baseurl: ""
@@ -20,7 +20,7 @@ organizerAlternateName: "Google Developer Group Chennai"
 organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Google technology with passion."
 organizerEmail: "karthik@skcript.com"
 organizerLogo: "/img/seo/organizer-logo.png"
-organizerLink: "http://lviv.gdg.org.ua/"
+organizerLink: "http://gdgchennai.com/"
 
 # Head
 metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, Chennai"
@@ -42,23 +42,14 @@ navigationLinks:
  - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/team/", text: "Team"}
  # - {permalink: "/logistics/", text: "Logistics"}
-
-bottomNavigationLinks:
- - {link: "mailto:karthik@skcript.com", text: "Become a speaker"}
-rightNavigationButtons:
- - {link: "https://docs.google.com/forms/d/1CKBHIQLT7MZ2D2LvtwcG7BdnMUWyuc2n0idHOXuNEtw/viewform", text: "Become a speaker"}
- - {link: "https://docs.google.com/forms/d/19qfK2UVXO8mtHhbQCjPNYICsrmQBkslCRM3Bga6985Y/viewform", text: "Host a stall"}
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "It's Time for you "
-eventDate: "16th of November 2014"
-typeoutTextValues: '"", "to Learn", "to Celebrate", "to Enjoy", "to Share"'
+heroTitle: "A day for "
+eventDate: "3rd of September 2016"
+typeoutTextValues: '"", "designers", "programmers", "startups", "entrepreneurs"'
 typeoutFallback: "Chennai"
 heroButtons:
-  - {link: "http://goo.gl/a7OvmB", text: "Nominate a speaker"}
-  - {link: "mailto:karthik@skcript.com", text: "Become a sponsor"}
-  - {link: "https://docs.google.com/forms/d/19qfK2UVXO8mtHhbQCjPNYICsrmQBkslCRM3Bga6985Y/viewform", text: "Host a Stall"}
-  - {link: "#", text: "tickets sold out"}
+  - {link: "#", text: "Register Here"}
 
 # About Block
 aboutTitle: "About GDG DevFest"
@@ -70,8 +61,8 @@ aboutBlock:
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "350", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
- - {count: "48", specialCharacter: "+", info: "hours", detail: "of pure Google technologies"}
+ - {count: "200", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
+ - {count: "8", specialCharacter: "+", info: "hours", detail: "of pure Google technologies"}
  - {count: "6", specialCharacter: "+", info: "speakers", detail: "from country and beyond"}
  - {count: "1", specialCharacter: "", info: "Day", detail: "plus entertainment lounge"}
 
@@ -86,28 +77,28 @@ rockstarSpeakersButtonText: "See all speakers"
 
 # Location Block
 locationBlockTitle: "Location"
-eventLocationName: "Raintree"
+eventLocationName: "E Hotel"
 eventLocationLink: "http://cabinet.kinopalace.lviv.ua/showtimes/"
-eventStreetAddress: "636, Anna Salai, Teynampet, Chennai "
+eventStreetAddress: "Express Avenue Mall, Ground Floor, Gate No 1, Patullos Road"
 eventAddressLocality: "Chennai"
-eventAddressLocalityRegion: "Chennai"
-eventPostalCode: "600035"
+eventAddressLocalityRegion: "Tamil Nadu"
+eventPostalCode: "600002"
 eventAddressCountry: "India"
-eventStartTime: "2014-10-25T08:45"
+eventStartTime: "2016-09-03T08:30"
 eventDoorTime: "09:00"
-eventEndTime: "2014-10-25T18:00"
-eventPlaceCoordinates: "13.062791, 80.261489"
-mapCenterCoordinates: "13.062791, 80.261489"
-mapMobileCenterCoordinates: "13.062791, 80.261489"
+eventEndTime: "2016-09-03T17:00"
+eventPlaceCoordinates: "13.0586092, 80.260926"
+mapCenterCoordinates: "13.058724, 80.2574503"
+mapMobileCenterCoordinates: "13.058724, 80.2574503"
 
 # Venue Block
 venueBlockTitle: "Venue"
-venueBigImage: "venue_0.jpg"
-venueSmallImage1: "venue_1.jpg"
-venueSmallImage2: "venue_2.jpg"
-venueSmallImage3: "venue_3.jpg"
-venueTitle: "Purple Hall"
-venueFeatures: ["3 huge cinema screens", "Doulby Digital Surround EX audio system", "Located directly in the city center"]
+venueBigImage: "venue_01.jpg"
+venueSmallImage1: "venue_01.jpg"
+venueSmallImage2: "venue_02.jpg"
+venueSmallImage3: "venue_03.jpg"
+venueTitle: "E Hotel"
+venueFeatures: ["In the heart of the city", "Doulby Digital Surround EX audio system", "Located directly in the city center"]
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
@@ -136,10 +127,10 @@ ticketsOffers:
   priceCurrency: "INR"
   ticketsNumber: "100"
   buyButtonLink: "#"
-  buyButtonText: "Sold out"
+  buyButtonText: "Book here"
   ticketContentList: ["Conference on Nov 16th"]
   validFrom: "2014-11-10T23:59"
-  validThrough: "2014-11-10T23:59"
+  validThrough: "2016-09--01T23:59"
 
 
 # Footer
@@ -158,15 +149,7 @@ footerBlocks:
   title: "Contacts"
   links:
    - {link: "mailto:karthik@skcript.com", text: "karthik@skcript.com"}
- -
-  title: "FAQ"
-  links:
-   - {permalink: "/wokrshop/", text: "Polymer Workshop"}
 
-# Blog
-blogTitle: "Latest news"
-blogCommentsEnabled: true
-discusShortName: "devfestua"
 
 # Speakers List Block
 showSessions: true
@@ -193,19 +176,7 @@ directionDetailsCards:
  - {title: "From the Airport", information: 'Airport is right at the city border. It is easily reachable by car, public transport or taxi. More information is available at airport website</a>.'}
  - {title: "Public Transit", information: 'Google Transit is available in Chennai. So you can find your way in Google Maps. Moreover, you can download any of the offline public transit apps available for Chennai.'}
  - {title: "Hotels", information: 'Chennai has lots of great hotels and hostels. More information will be available later.'}
-directionDetailsWideCards: 
-
-# Hackathon
-hackathonTitle: "Ploymer Workshop"
-enableHackathon: true
-
-# Hackathon About Block
-aboutHackathonTitle: "What is Polymer ?"
-hackathonRows:
- # - {title: "Android Wear", image: "hackathon-0.png", details: "The front doors will be locked because this is after hours, please park behind the building and come to the door nearest the parking lot.<br><br>Our last meeting showed that there was a lot of interest in Android Wear so we decided to put on an Android Wear Hackathon to see what you could come up with! We realize that this is pretty short notice so we hope you can help us spread the word! There will be pizza, prizes and a great group of geeks to spend the evening coding with! Even if you don't have an app idea come on in and lend a hand to someone else or maybe find inspiration once you're here!"}
- # - {title: "Google Glass", image: "hackathon-1.png", details: "We love wearable computing especially Google Glass for which we want to gather the break up community in order to boost innovation.<br><br>Coding an app on Google Glass needs its Rockstar Dev : the team needs a fast learner with solid skills on Android. He knows his way around Android SDK, already checked the Glass Developement Kit (GDK) quick start guide allowing him to jump start developing an app for Glass.The Designer has the hard task to build the visual identity from the ground up, he has strong UX knowledge and a deep understanding of the new rules set by the Glass. His design skills give him the credibility to decide the most effective UI and the most compelling Glass experience."}
- - {title: "Polymer", image: "hackathon-2.png", details: "Polymer is a library that introduces web components. Web components are small elements on a page that can be extended and incorporated in web applications. The result is an increase in productivity.<br><br>We used Polymer mainly to explore the concept of web components. The transition of Google to material design was also a factor.While the library was never touched by the team, it still was painless to wireframe the application. Later on we incorporated some Polymer components in the design. We didn’t use the full potential of Polymer because of the limited time."}
-
+directionDetailsWideCards:
 
 
 # Hackathon Location Block

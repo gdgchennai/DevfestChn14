@@ -1,88 +1,61 @@
 -
-  id: 307
+  id: 1
   title: "Registration"
   language: en
-  speakers: [3]
   complexity: "Beginner"
 -
-  id: 503
-  title: "Lunch Break"
-  place: "Dining room"
-  service: true
+  id: 2
+  title: "Keynote"
+  subtype: keynote
+  language: en
 -
-  id: 505
+  id: 3
+  title: "Security on Internet of Devices"
+  language: en
+  speakers: [2]
+  complexity: "Beginner"
+-
+  id: 4
   title: "Tea Break"
   place: "Dining room"
   service: true
 -
-  id: 001
-  title: "Keynote"
-  subtype: keynote
+  id: 5
+  title: "Design Talk"
   speakers: [3]
-  language: en
--
-  id: 002
-  title: "Panel Discussion"
-  language: en
-  speakers: [3]
-  complexity: "Beginner"
--
-  id: 003
-  title: "Where is the pug going to be - The Wearable technologies"
-  speakers: [3,4]
   language: en
   complexity: "Expert"
 -
-  id: 004
-  title: "Google Glass APIs and demos"
-  speakers: [9]
-  language: uk
-  complexity: "Beginner"
--
-  id: 005
-  title: "Using Containers on Google Cloud Platform - the future of Cloud!"
+  id: 6
+  title: "Firebase for developers"
   speakers: [6]
   language: en
   complexity: "Beginner"
 -
-  id: 006
-  title: "Perks of Polymer"
+  id: 7
+  title: "Lunch Break"
+  place: "Dining room"
+  service: true
+-
+  id: 8
+  title: "Firebase for startups"
   speakers: [5]
+  language: uk
+  complexity: "Beginner"
+-
+  id: 9
+  title: "Cloud Talk"
+  speakers: [4]
   language: en
   complexity: "Beginner"
 -
-  id: 007
-  title: "Going material - Materializing your apps"
-  speakers: [11]
-  language: en
-  complexity: "Beginner"
+  id: 10
+  title: "Tea Break"
+  place: "Dining room"
+  service: true
+
 -
-  id: 008
-  title: "Web Literacy - Unveiling the power of Free, Open and Accessible Web."
-  speakers: [7]
+  id: 11
+  title: "Rascalas Perfomance"
   language: en
-  complexity: "Beginner"
--
-  id: 009
-  title: "Why should you bother about GIT for your development!"
-  speakers: [8]
-  language: en
-  complexity: "Beginner"
--
-  id: 010
-  title: "Lightning talks and App Demos"
-  language: en
-  speakers: [3]
-  complexity: "Beginner"
--
-  id: 011
-  title: "Gala Time and Saying your Goodbyes!"
-  language: en
-  speakers: [3]
-  complexity: "Beginner"
--
-  id: 010
-  title: "How community changed my life"
-  language: en
-  speakers: [10]
   complexity: "Beginner"
