@@ -25,9 +25,9 @@ organizerLink: "http://gdgchennai.com/"
 # Head
 metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, Chennai"
 twitterAccount: "@gdgchennai"
-socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
-socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
-socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
+socialImageSrcGooglePlus: "/img/seo/hero.jpeg"
+socialImageSrcTwitter: "/img/seo/hero.jpeg"
+socialImageSrcFacebook: "/img/seo/hero.jpeg"
 
 # Documents
 c4pUrl: "mailto:karthik@skcript.com"
