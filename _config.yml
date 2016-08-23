@@ -5,9 +5,9 @@ exclude: ['/automation/', 'README.md', 'LICENCE.txt', 'CNAME']
 
 
 # Site Settings
-title: "GDG Chennai DevFest 2016"
+title: "GDG DevFest 2016 by GDG Chennai"
 email: "karthik@skcript.com"
-description: "GDG DevFest is a set of events all around the world"
+description: "GDG DevFest is a set of events all around the world. This time, in Chennai. Come join us, meet the Googlers and share what you know with others."
 baseurl: ""
 url: "http://devfest.gdgchennai.com"
 permalink: "/blog/:title"
@@ -170,9 +170,9 @@ logisticsMapMobileCenterCoordinates: "13.058724, 80.2574503"
 
 # Logistics Direction Details Block
 directionDetailsImage: "direction-details.jpg"
-directionDetailsTitle: "Get around chennai"
+directionDetailsTitle: "Get around Chennai"
 directionDetailsCards:
- - {title: "From the Airport", information: 'Airport is right at the city border. It is easily reachable by car, public transport or taxi. More information is available at airport website</a>.'}
+ - {title: "From the Airport", information: 'Airport is right inside the City. It is easily reachable by car, public transport or taxi. More information is available at airport website</a>.'}
  - {title: "Public Transit", information: 'Google Transit is available in Chennai. So you can find your way in Google Maps. Moreover, you can download any of the offline public transit apps available for Chennai.'}
  - {title: "Hotels", information: 'Chennai has lots of great hotels and hostels. More information will be available later.'}
 directionDetailsWideCards:
