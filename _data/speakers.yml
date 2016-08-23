@@ -43,11 +43,11 @@
     - {name: "twitter", link: "http://twitter.com/parulsoi"}
 -
   id: 6
-  name: "Muthu"
-  surname: "Ramakrishnan"
+  name: "Muthuramakrishnan"
+  surname: "Viswanathan"
   company: "Apigee Corporation"
   title: "Full Stack Engineer"
-  bio: "Android Developer | UX/UI Designer | Web developer | VFX Designer"
+  bio: "Open Source Software Developer, Perfectionist, Technology Evangelist, UI/UX Designer, Philatelist"
   thumbnailUrl: muthu.jpg
   rockstar: true
   social:
