@@ -49,7 +49,7 @@ eventDate: "3rd of September 2016"
 typeoutTextValues: '"", "designers", "programmers", "startups", "entrepreneurs"'
 typeoutFallback: "Chennai"
 heroButtons:
-  - {link: "http://goo.gl/ddIXgR", text: "Register Here"}
+  - {link: "http://goo.gl/ddIXgR", text: "Request for invite here"}
 
 # About Block
 aboutTitle: "About GDG DevFest"
@@ -122,9 +122,9 @@ ticketsTitle: "Registration"
 ticketsOffers:
  -
   name: "Conference Ticket"
-  price: "Free"
+  price: "Invite Only"
   buyButtonLink: "http://goo.gl/ddIXgR"
-  buyButtonText: "Book here"
+  buyButtonText: "Request here"
   ticketContentList: ["Conference on September 3rd"]
   validFrom: "2014-11-10T23:59"
   validThrough: "2016-09-01T23:59"
@@ -163,12 +163,12 @@ findWayWalking: "WALKING"
 findWayBicycling: "BICYCLING"
 findWayTransit: "TRANSIT"
 findWayFindFlight: "Find Flight"
-logisticsMapCenterCoordinates: "49.056728, 3.117289"
-logisticsMapMobileCenterCoordinates: "48.335365, 23.711648"
+logisticsMapCenterCoordinates: "13.058724, 80.2574503"
+logisticsMapMobileCenterCoordinates: "13.058724, 80.2574503"
 
 # Logistics Direction Details Block
 directionDetailsImage: "direction-details.jpg"
-directionDetailsTitle: "Get around Lviv"
+directionDetailsTitle: "Get around chennai"
 directionDetailsCards:
  - {title: "From the Airport", information: 'Airport is right at the city border. It is easily reachable by car, public transport or taxi. More information is available at airport website</a>.'}
  - {title: "Public Transit", information: 'Google Transit is available in Chennai. So you can find your way in Google Maps. Moreover, you can download any of the offline public transit apps available for Chennai.'}
@@ -176,20 +176,3 @@ directionDetailsCards:
 directionDetailsWideCards:
 
 
-# Hackathon Location Block
-hackathonLocationBlockTitle: "Location"
-hackathonLocationName: "Communa"
-hackathonLocationLink: "http://communa.net.ua/"
-hackathonStreetAddress: "1 Halytska St"
-hackathonAddressLocality: "Lviv"
-hackathonAddressLocalityRegion: "Lvivska"
-hackathonPostalCode: "79000"
-hackathonAddressCountry: "Ukraine"
-hackathonTimeTitle: "Hack through"
-hackathonStartTime: "2014-10-24T10:00"
-hackathonDoorTime: "09:00"
-hackathonEndTime: "2014-10-25T00:00"
-viewOnMap: "View on Google Maps"
-hackathonPlaceCoordinates: "49.840999, 24.031144"
-hackathonMapCenterCoordinates: "49.840696, 24.028754"
-hackathonMapMobileCenterCoordinates: "49.841639, 24.031182"
