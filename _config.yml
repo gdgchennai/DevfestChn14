@@ -9,7 +9,7 @@ title: "GDG Chennai DevFest 2016"
 email: "karthik@skcript.com"
 description: "GDG DevFest is a set of events all around the world"
 baseurl: ""
-url: "http://gdgchennai.github.io/DevfestChn14"
+url: "http://devfest.gdgchennai.com"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-42775480-1"
 googleAnalyticsSiteUrl: "devfest.gdgchennai.com"
@@ -46,7 +46,7 @@ navigationLinks:
 heroImage: "hero.jpeg"
 heroTitle: "A day for "
 eventDate: "3rd of September 2016"
-typeoutTextValues: '"", "designers", "programmers", "startups", "entrepreneurs"'
+typeoutTextValues: '"YOU", "designers", "programmers", "startups", "entrepreneurs"'
 typeoutFallback: "Chennai"
 heroButtons:
   - {link: "http://goo.gl/ddIXgR", text: "Request for invite here"}
@@ -146,6 +146,8 @@ footerBlocks:
   title: "Contacts"
   links:
    - {link: "mailto:karthik@skcript.com", text: "karthik@skcript.com"}
+   - {link: "mailto:swaathi@skcript.com", text: "swaathi@skcript.com"}
+   - {link: "mailto:varun@skcript.com", text: "varun@skcript.com"}
 
 
 # Speakers List Block
