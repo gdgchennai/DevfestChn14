@@ -62,12 +62,13 @@
     - {name: "facebook", link: "https://facebook.com/harish.manutd.freako"}
 - 
   id: 7
-  name: "Muthu"
-  surname: "Ramakrishnan"
+  name: "Muthuramakrishnan"
+  surname: "Viswanthan"
   title: "Developer"
   thumbnailUrl: muthu.jpg
   subTeam: true
   social: 
+    - {name: "google-plus", link: "https://plus.google.com/+MuthuRamakrishnan"}
     - {name: "facebook", link: "https://www.facebook.com/siriscac"}
-    - {name: "twitter", link: "https://twitter.com/siris_cac"}
+    - {name: "twitter", link: "https://twitter.com/siriscac"}
     - {name: "github", link: "https://github.com/siriscac"}
