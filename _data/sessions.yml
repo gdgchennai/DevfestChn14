@@ -39,13 +39,13 @@
   service: true
 -
   id: 8
-  title: "Firebase for startups"
+  title: "Firebase for Developers"
   speakers: [5]
   language: uk
   complexity: "Beginner"
 -
   id: 9
-  title: "Cloud Talk"
+  title: "How to break a million"
   speakers: [4]
   language: en
   complexity: "Beginner"
