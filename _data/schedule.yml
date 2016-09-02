@@ -6,56 +6,56 @@
   timeslots:
     - {
         startTime: "08:00",
-        endTime: "09:30",
+        endTime: "09:00",
         sessionIds: [1]
     }
     - {
-        startTime: "09:30",
-        endTime: "09:45",
+        startTime: "09:00",
+        endTime: "09:15",
         sessionIds: [2]
     }
     - {
-        startTime: "09:45",
-        endTime: "10:45",
+        startTime: "09:15",
+        endTime: "10:15",
         sessionIds: [5]
     }
     - {
-        startTime: "10:45",
-        endTime: "11:00",
+        startTime: "10:15",
+        endTime: "10:30",
         sessionIds: [4]
     }
     - {
-        startTime: "11:00",
-        endTime: "12:00",
+        startTime: "10:30",
+        endTime: "11:30",
         sessionIds: [6]
     }
     - {
-        startTime: "12:00",
-        endTime: "13:00",
+        startTime: "11:30",
+        endTime: "12:30",
         sessionIds: [3]
     }
     - {
-        startTime: "13:00",
-        endTime: "14:00",
+        startTime: "12:30",
+        endTime: "13:30",
         sessionIds: [7]
     }
     - {
-        startTime: "14:00",
-        endTime: "15:00",
+        startTime: "13:30",
+        endTime: "14:30",
         sessionIds: [8]
     }
     - {
-        startTime: "15:00",
-        endTime: "16:00",
+        startTime: "14:30",
+        endTime: "15:30",
         sessionIds: [9]
     }
     - {
-        startTime: "16:00",
-        endTime: "16:15",
+        startTime: "15:30",
+        endTime: "15:45",
         sessionIds: [10]
     }
     - {
-        startTime: "16:15",
-        endTime: "17:15",
+        startTime: "15:45",
+        endTime: "16:45",
         sessionIds: [11]
     }
