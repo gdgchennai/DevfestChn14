@@ -39,7 +39,7 @@
   service: true
 -
   id: 8
-  title: "Firebase for Developers"
+  title: "How to measure Pirate Metrics with Firebase"
   speakers: [5]
   language: uk
   complexity: "Beginner"
